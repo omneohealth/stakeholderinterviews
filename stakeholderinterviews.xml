@@ -1,34 +1,67 @@
-<?xml version="1.0"?><h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:odk="http://www.opendatakit.org/xforms" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><h:head><h:title>OMNeoHealth Stakeholder Interviews Papua New Guinea</h:title><model><itext><translation lang="Pidgin"><text id="/stakeholderinterviews/pis_individual/consent_individual2/3:label"><value>I do not agree to be interviewed</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/1:label"><value>Yes, as long as any information that might be used to identify me remains anonymous</value></text><text id="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; unsure of consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; and ask when you can call back to confirm consent.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_9:label"><value>&lt;h3&gt; Usait ol lain sidaun na tok orait lo displa wok ken kamap?&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:odk="http://www.opendatakit.org/xforms" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>OMNeoHealth Stakeholder Interviews Papua New Guinea</h:title>
+    <model>
+      <itext>
+        <translation lang="Pidgin">
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2/3:label">
+            <value>I do not agree to be interviewed</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/1:label">
+            <value>Yes, as long as any information that might be used to identify me remains anonymous</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; unsure of consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; and ask when you can call back to confirm consent.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_9:label">
+            <value>&lt;h3&gt; Usait ol lain sidaun na tok orait lo displa wok ken kamap?&lt;/h3&gt;
 
-I gat tupela difrent komiti ibin sidaun na lukluk na makim disesen lo displa wok. Wanpla em Universiti blo Papua New Guinea, School of Medicine and Health Science ethics komiti na narapla em wanpla komiti insait lo Universiti of Oxford Tropical Research.</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual2/4:label"><value>Not sure</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_position:label"><value>Position of interviewee</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group_signature:label"><value>Signature</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2:label"><value>Consent for interview and for interview to be recorded.</value></text><text id="/stakeholderinterviews/interviewer_name:label"><value>Name of interviewer</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_2:label"><value>&lt;h3&gt;Igat nid lo mi kam insait long dispela wok?&lt;/h3&gt;
+I gat tupela difrent komiti ibin sidaun na lukluk na makim disesen lo displa wok. Wanpla em Universiti blo Papua New Guinea, School of Medicine and Health Science ethics komiti na narapla em wanpla komiti insait lo Universiti of Oxford Tropical Research.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2/4:label">
+            <value>Not sure</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_position:label">
+            <value>Position of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group_signature:label">
+            <value>Signature</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2:label">
+            <value>Consent for interview and for interview to be recorded.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name:label">
+            <value>Name of interviewer</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_2:label">
+            <value>&lt;h3&gt;Igat nid lo mi kam insait long dispela wok?&lt;/h3&gt;
 
-Em I stap long laik bilong yu sapos yu laik kam insait na halivim mipela lo wokim dispel wok painim aut o nogat. Yu ken askim ol kwesten lo mipela bifo yu kam insait na halivim mipela long dispel wok painim aut bilong mipela. Sapos yu tingim olsem yu les long wok lo halivim mipela long dispel wok painim aut, yu ken lusim mipela long laik bilong yu. Na tu, laik blo yu sapos yu no tokim mipela ol as tingting bilong yu olsem y bai yu lusim dispel wok painim aut bilon mipela.</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3/1:label"><value>Yes, as long as any information that might be used to identify me remains anonymous</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction:label"><value>Good morining/Good afternoon.
+Em I stap long laik bilong yu sapos yu laik kam insait na halivim mipela lo wokim dispel wok painim aut o nogat. Yu ken askim ol kwesten lo mipela bifo yu kam insait na halivim mipela long dispel wok painim aut bilong mipela. Sapos yu tingim olsem yu les long wok lo halivim mipela long dispel wok painim aut, yu ken lusim mipela long laik bilong yu. Na tu, laik blo yu sapos yu no tokim mipela ol as tingting bilong yu olsem y bai yu lusim dispel wok painim aut bilon mipela.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3/1:label">
+            <value>Yes, as long as any information that might be used to identify me remains anonymous</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction:label">
+            <value> Good morining/Good afternoon.
 
 My name is &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewer_name "/>&lt;/span&gt; and I am a researcher for a study entitled &lt;strong&gt;Maternal and newborn health in Papua New Guinea: A synthesis of evidence and identification of gaps&lt;/strong&gt;.
 
-I am here to invite you as a relevant stakeholder on the topic of maternal and neonatal health in Papua New Guinea for a focus group discussion for &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type_name "/>&lt;/span&gt;.</value></text><text id="/stakeholderinterviews/pis_individual/consent_signature:label"><value>Signature</value></text><text id="/stakeholderinterviews/interviewee_group1/interview_group_no_audio:hint"><value>**REQUIRED:** Type in notes from the interview.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_4:label"><value>&lt;h3&gt;Wanem samtin bai kamap lo displa wok painim aut blo mipela?&lt;/h3&gt;
+I am here to invite you as a relevant stakeholder on the topic of maternal and neonatal health in Papua New Guinea for a focus group discussion for &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type_name "/>&lt;/span&gt;.  </value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_signature:label">
+            <value>Signature</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1/interview_group_no_audio:hint">
+            <value>**REQUIRED:** Type in notes from the interview.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_4:label">
+            <value>&lt;h3&gt;Wanem samtin bai kamap lo displa wok painim aut blo mipela?&lt;/h3&gt;
 
-Sapos yu tingim olsem yu laik halivim mipela insait lo wok painim aut bilong mipela, bai mipla I askim yu lo putim han mak bilong yu long wanpela pepa we I sowim olsem yu givim tok orait lo mipla lo askim yu ol kwesten bilong wok painim aut bilong mipela. Wanpela wokman bilong mipela bai sidaun wantaim yu na raitim ol as tintin na save bilong you lo mama na niupela bebi. Dispela em bai kisim olsem wanpla hour. Sapos yupla pilim olsem yu les lo bekim ol kwesten bilong miplela, yu ken stopim mipela lo askim yu ol kwesten na kirap lusim dispela wokman bilong mipela.</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual1:label"><value>Nem blo mi em &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.
-
-1. Mi lukim na ridim displa pepa wer igat tokok blo displa wok painim (o wanpla ie bin ridim ikam lo mi) na mi bin igat sanis lo askim sampla tok painim, na mi kimsim gutpla bekim toktok.
-
-2. Mi save olsem ol boss mahn na save lain e bin lukim dispela pepa na givim tok orait tru I kam lo Univesiti bilong Papua Niugini, Skul bilong Marasin na helt sience, Fecalti bilong Tropicol Marasin na Univesiti blo Oxford Resech na Etics comiti.
-
-3. Mi wan bel lo sindaun insait lo dispela wok painin, na mi ken tok nogat lo putim sampla tok askim bilog mi insait lo dispela wok painim. Mi inap lon tok nogat lo sampela askim sapos mi laik.
-
-4. Me save osem insait lo dispela wok painim mi e mas givim ansa lo sampela tok askim na sindaun na toktok wantem ol arapla meri.
-
-5. Mi save osem ol toktok wer me tokim lo ol mahn e go pas lo dispela wok painim bai nonap stap lo ples kilia lo ol arapela mahn lo lukim na ol bai nonap tokaut nating nating. Mi save olsem ol lain igo pas lo dispel wok painim tasol bai igat save lo olgeta toktok mipla e makim.
-
-6. Mi save osem ol arapela ol save mahn na meri insait lo kantry na arasait lo kantry e bai lukim ol dispela toktok insait lo dispela wok painim.
-
-7. Me save olsem sapos mi igat wari mi ken tokaut sapos mi laik.
-
-8. Me kisim as tingting lo dispela wok painim. Mi wan bel lo olgeta toktok insait lo dispela pepa na mi hamamas lo olgeta ansa blo tok askim.
-
-9. Me save osem me ken senisim tingting bilong mi na pikinini bilog mi bai nonap kisim asuwa.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interviewee_individual/interview_preamble:label"><value>You are now going to interview &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.
-
-Make sure you cover all of the topics indicated in the interview guide.</value></text><text id="/stakeholderinterviews/pis_individual/consent_introduction:label"><value>I am now going to show you the consent form for this interview where you can review what you are agreeing to if you consent to being a participant in this study and be interviewed.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group1:label"><value>Nem blo mi em &lt;span style=&quot;color:blue&gt;<output value=" /stakeholderinterviews/interview_group/pis_group/interviewee_group_name "/>&lt;/span&gt;.
+Sapos yu tingim olsem yu laik halivim mipela insait lo wok painim aut bilong mipela, bai mipla I askim yu lo putim han mak bilong yu long wanpela pepa we I sowim olsem yu givim tok orait lo mipla lo askim yu ol kwesten bilong wok painim aut bilong mipela. Wanpela wokman bilong mipela bai sidaun wantaim yu na raitim ol as tintin na save bilong you lo mama na niupela bebi. Dispela em bai kisim olsem wanpla hour. Sapos yupla pilim olsem yu les lo bekim ol kwesten bilong miplela, yu ken stopim mipela lo askim yu ol kwesten na kirap lusim dispela wokman bilong mipela.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual1:label">
+            <value> Nem blo mi em &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.
 
 1. Mi lukim na ridim displa pepa wer igat tokok blo displa wok painim (o wanpla ie bin ridim ikam lo mi) na mi bin igat sanis lo askim sampla tok painim, na mi kimsim gutpla bekim toktok.
 
@@ -46,59 +79,390 @@ Make sure you cover all of the topics indicated in the interview guide.</value><
 
 8. Me kisim as tingting lo dispela wok painim. Mi wan bel lo olgeta toktok insait lo dispela pepa na mi hamamas lo olgeta ansa blo tok askim.
 
-9. Me save osem me ken senisim tingting bilong mi na pikinini bilog mi bai nonap kisim asuwa.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/pis_group1:label"><value>Do you have any questions regarding the study based on the participant information sheet we have provided you earlier?
+9. Me save osem me ken senisim tingting bilong mi na pikinini bilog mi bai nonap kisim asuwa.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual/interview_preamble:label">
+            <value> You are now going to interview &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.
 
-&lt;small&gt;If participant has any questions, address them accordingly. If a question has been raised that you feel you are unable to answer or requires someone else from the team to answer, inform the participant that you will refer his/her question to the appropriate team member.&lt;/small&gt;</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/1:label"><value>I agree to be interviewed and for the interview to be digitally recorded</value></text><text id="/stakeholderinterviews/interviewee_group1/interview_group_preamble:label"><value>Your are now going to conduct a focus group discussion.
+Make sure you cover all of the topics indicated in the interview guide.  </value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_introduction:label">
+            <value>I am now going to show you the consent form for this interview where you can review what you are agreeing to if you consent to being a participant in this study and be interviewed.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group1:label">
+            <value> Nem blo mi em &lt;span style=&quot;color:blue&gt;<output value=" /stakeholderinterviews/interview_group/pis_group/interviewee_group_name "/>&lt;/span&gt;.
 
-Make sure you cover all of the topics indicated in the interview guide.</value></text><text id="/stakeholderinterviews/interviewer_name/Agatha Afasi:label"><value>Agatha Afasi</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_10:label"><value>&lt;h3&gt;Bai mi kisim kompensesen taim mi wok bung wantaim yuplela?&lt;/h3&gt;
+1. Mi lukim na ridim displa pepa wer igat tokok blo displa wok painim (o wanpla ie bin ridim ikam lo mi) na mi bin igat sanis lo askim sampla tok painim, na mi kimsim gutpla bekim toktok.
 
-I nogat wanpla samtin we mipla ken givim lo yu lo tok tenkyu lo wok bung wantaim mipla, but wanem ol askim blo mipla yupla bekim, em bai halivim lo skulim mipla lo hau mipla ken lukluk na stretim ol sevis blo ol mama lo taim ol karim niupela bebi na tu ol nuipla babi insait lo kantri.</value></text><text id="/stakeholderinterviews/interviewee_type/4:label"><value>Pregnant women</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/4:label"><value>Other stipulations</value></text><text id="/stakeholderinterviews/interview_group/pis_group/pis_group3:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/pis_group3:label"><value>All question/s that have not been addressed have been noted and will be referred to appropriate team member.</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3/3:label"><value>No, but the information I provide may be used to inform the overall analysis.</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_organisation:hint"><value>**REQUIRED:** Enter the name of department or organisation the interviewee is affiliated with</value></text><text id="/stakeholderinterviews/interview_group/group_number:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_3:label"><value>&lt;h3&gt;Husait em ol narapela lain insait long dispel wok painim aut?&lt;/h3&gt;
+2. Mi save olsem ol boss mahn na save lain e bin lukim dispela pepa na givim tok orait tru I kam lo Univesiti bilong Papua Niugini, Skul bilong Marasin na helt sience, Fecalti bilong Tropicol Marasin na Univesiti blo Oxford Resech na Etics comiti.
 
-Mipela bai singautim ol man na meri long kam na mipela bai askim ol lo ol kain kwesten we bai i ken halivim mipela long kisim as tingting bilong ol. Ol mama na papa, ol lida bilong komuniti, ol wokman bilong helt, ol lain we I save makim disisen lo helt sevis blo yumi, na ol lain we I save wok bung wantaim insait lo wok bilong helt bilong ol mama na nuipla bebi.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:hint"><value>**REQUIRED:** If interviewee unable to read, read the consent form to the interviewee.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_7:label"><value>&lt;h3&gt;Ol bai wokim wanem wantaim ol toktok mipla givim lo yupla?&lt;/h3&gt;
+3. Mi wan bel lo sindaun insait lo dispela wok painin, na mi ken tok nogat lo putim sampla tok askim bilog mi insait lo dispela wok painim. Mi inap lon tok nogat lo sampela askim sapos mi laik.
 
-Ol toktok mipla kisim lo yupla mipla bai kisim go na sharim wantaim ol helt wanwok blo mipla husait e save wok bung wantaim lo givim sevis lo ol mama na nuipla babi insait lo kantri, na tu lukluk lo wanem ol nuipla rot we e stap lo mipla ken behainim lo givim gutpla mor sevis kam lo ol mama na nuipla babi. Mipla bai sharim ol wok painim aut blo mipla tu wantaim ol narapla wok painim aut lain o scientist na raitim ripot na givim toktok lo ol bikpela confrens autsait lo kantri. Insait lo displa olgeta wok mipla wokim, mipla bai nonap tokaut lo nem blo yu.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3:label"><value>Mi givim tok orait lo usim ol toktok bilong me lo ol arapela wok painim, na rausim nem bilong mi.</value></text><text id="/stakeholderinterviews/pis_individual/pis_policymaker2:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/4:label"><value>Not sure</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3/4:label"><value>Other stipulations</value></text><text id="/stakeholderinterviews/interviewee_individual/interview_audio:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/pis_group2:label"><value>All question/s regarding the study have been addressed.</value></text><text id="/stakeholderinterviews/interviewer_name/Laura Naidi:label"><value>Laura Naidi</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/2:label"><value>I agree to be intervivewed but **not** for the interview to be digitally recorded</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual2:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:label"><value>Name of interviewee</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual2/2:label"><value>I agree to be intervivewed but **not** for the interview to be digitally recorded</value></text><text id="/stakeholderinterviews/pis_individual/pis_policymaker3:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_name:label"><value>Name of interviewee</value></text><text id="/stakeholderinterviews/interviewee_individual/interview_no_audio:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not consented to auido recording of interview.
+4. Me save osem insait lo dispela wok painim mi e mas givim ansa lo sampela tok askim na sindaun na toktok wantem ol arapla meri.
 
-Start taking notes of the interview.</value></text><text id="/stakeholderinterviews/interview_end:label"><value>Interview finished.
+5. Mi save osem ol toktok wer me tokim lo ol mahn e go pas lo dispela wok painim bai nonap stap lo ples kilia lo ol arapela mahn lo lukim na ol bai nonap tokaut nating nating. Mi save olsem ol lain igo pas lo dispel wok painim tasol bai igat save lo olgeta toktok mipla e makim.
 
-Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.</value></text><text id="/stakeholderinterviews/interviewee_type/3:label"><value>Community leader</value></text><text id="/stakeholderinterviews/pis_individual/individual_introduction:label"><value>Good morining/Good afternoon.
+6. Mi save osem ol arapela ol save mahn na meri insait lo kantry na arasait lo kantry e bai lukim ol dispela toktok insait lo dispela wok painim.
+
+7. Me save olsem sapos mi igat wari mi ken tokaut sapos mi laik.
+
+8. Me kisim as tingting lo dispela wok painim. Mi wan bel lo olgeta toktok insait lo dispela pepa na mi hamamas lo olgeta ansa blo tok askim.
+
+9. Me save osem me ken senisim tingting bilong mi na pikinini bilog mi bai nonap kisim asuwa.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/pis_group1:label">
+            <value>Do you have any questions regarding the study based on the participant information sheet we have provided you earlier?
+
+&lt;small&gt;If participant has any questions, address them accordingly. If a question has been raised that you feel you are unable to answer or requires someone else from the team to answer, inform the participant that you will refer his/her question to the appropriate team member.&lt;/small&gt;</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/1:label">
+            <value>I agree to be interviewed and for the interview to be digitally recorded</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1/interview_group_preamble:label">
+            <value>Your are now going to conduct a focus group discussion.
+
+Make sure you cover all of the topics indicated in the interview guide.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name/Agatha Afasi:label">
+            <value>Agatha Afasi</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_10:label">
+            <value>&lt;h3&gt;Bai mi kisim kompensesen taim mi wok bung wantaim yuplela?&lt;/h3&gt;
+
+I nogat wanpla samtin we mipla ken givim lo yu lo tok tenkyu lo wok bung wantaim mipla, but wanem ol askim blo mipla yupla bekim, em bai halivim lo skulim mipla lo hau mipla ken lukluk na stretim ol sevis blo ol mama lo taim ol karim niupela bebi na tu ol nuipla babi insait lo kantri.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/4:label">
+            <value>Pregnant women</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/4:label">
+            <value>Other stipulations</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/pis_group3:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/pis_group3:label">
+            <value>All question/s that have not been addressed have been noted and will be referred to appropriate team member.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3/3:label">
+            <value>No, but the information I provide may be used to inform the overall analysis.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_organisation:hint">
+            <value>**REQUIRED:** Enter the name of department or organisation the interviewee is affiliated with</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/group_number:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_3:label">
+            <value>&lt;h3&gt;Husait em ol narapela lain insait long dispel wok painim aut?&lt;/h3&gt;
+
+Mipela bai singautim ol man na meri long kam na mipela bai askim ol lo ol kain kwesten we bai i ken halivim mipela long kisim as tingting bilong ol. Ol mama na papa, ol lida bilong komuniti, ol wokman bilong helt, ol lain we I save makim disisen lo helt sevis blo yumi, na ol lain we I save wok bung wantaim insait lo wok bilong helt bilong ol mama na nuipla bebi.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:hint">
+            <value>**REQUIRED:** If interviewee unable to read, read the consent form to the interviewee.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_7:label">
+            <value>&lt;h3&gt;Ol bai wokim wanem wantaim ol toktok mipla givim lo yupla?&lt;/h3&gt;
+
+Ol toktok mipla kisim lo yupla mipla bai kisim go na sharim wantaim ol helt wanwok blo mipla husait e save wok bung wantaim lo givim sevis lo ol mama na nuipla babi insait lo kantri, na tu lukluk lo wanem ol nuipla rot we e stap lo mipla ken behainim lo givim gutpla mor sevis kam lo ol mama na nuipla babi. Mipla bai sharim ol wok painim aut blo mipla tu wantaim ol narapla wok painim aut lain o scientist na raitim ripot na givim toktok lo ol bikpela confrens autsait lo kantri. Insait lo displa olgeta wok mipla wokim, mipla bai nonap tokaut lo nem blo yu.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3:label">
+            <value>Mi givim tok orait lo usim ol toktok bilong me lo ol arapela wok painim, na rausim nem bilong mi.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/pis_policymaker2:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/4:label">
+            <value>Not sure</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3/4:label">
+            <value>Other stipulations</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual/interview_audio:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/pis_group2:label">
+            <value>All question/s regarding the study have been addressed.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name/Laura Naidi:label">
+            <value>Laura Naidi</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/2:label">
+            <value>I agree to be intervivewed but **not** for the interview to be digitally recorded</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:label">
+            <value>Name of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2/2:label">
+            <value>I agree to be intervivewed but **not** for the interview to be digitally recorded</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/pis_policymaker3:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_name:label">
+            <value>Name of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual/interview_no_audio:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not consented to auido recording of interview.
+
+Start taking notes of the interview.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_end:label">
+            <value> Interview finished.
+
+Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/3:label">
+            <value>Community leader</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/individual_introduction:label">
+            <value> Good morining/Good afternoon.
 
 My name is &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewer_name "/>&lt;/span&gt; and I am a researcher for a study entitled &lt;span style=&quot;color:blue&quot;&gt;Maternal and newborn health in Papua New Guinea: A synthesis of evidence and identification of gaps&lt;/span&gt;.
 
-I am here to interview you as a relevant stakeholder on the topic of maternal and neonatal health in Papua New Guinea.</value></text><text id="/stakeholderinterviews/interviewee_group1/interview_group_audio:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/2:label"><value>Yes, as long as I review the quote before it is used</value></text><text id="/stakeholderinterviews/end_no_consent:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not provided consent. Stop interview.</value></text><text id="/stakeholderinterviews/interviewee_type:label"><value>Type of interviewee</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_12:label"><value>&lt;h3&gt;Husait wokim dispel wok painim, em bai kamap lo we, na husait givim mani lo wokim?&lt;/h3&gt;
+I am here to interview you as a relevant stakeholder on the topic of maternal and neonatal health in Papua New Guinea.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1/interview_group_audio:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/2:label">
+            <value>Yes, as long as I review the quote before it is used</value>
+          </text>
+          <text id="/stakeholderinterviews/end_no_consent:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not provided consent. Stop interview.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type:label">
+            <value>Type of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_12:label">
+            <value>&lt;h3&gt;Husait wokim dispel wok painim, em bai kamap lo we, na husait givim mani lo wokim?&lt;/h3&gt;
 
 Lida bilong wok painim em Dr Proochista Ariana, em blo Oxford Univesiti. Igat ol wok painim aut grup we I stap insait lo kantri na autsait lo kantri wantaim ol helt dipatment lain we i woklo halivim lida blo displa wok painim. Insait lo ol peles we Oxford Univesiti laik wokim wok painim aut, wanwan ol wok painim aut komiti mas sidaun na tok orait pastaim bifo wok painim aut ken stat. ol komiti taim ol I sidaun lo kamap wantaim disisen, ol e mas lukluk gut na agri olsem displela wok painim aut em bikpla samtin, ol e mas luksave olsem em e bihainim lo blo wok painim aut autsait lo kantri na lo blo wok painim aut insait lo displa kantri tu. Insait lo dispepla ol e mas luksave olsem I gat lo bilong lukautim ol lain we e bai wok bung wantaim insait lo dispela wok painim aut.
 
-Global Challenges Research Fund, University of Oxford, ol e givim mani lo wokim dispela wok painim aut.</value></text><text id="/stakeholderinterviews/interviewee_individual/interview_no_audio:hint"><value>**REQUIRED:** Type in notes from the interview.</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_name:hint"><value>**REQUIRED:** Enter full name of interviewee</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_organisation:label"><value>Department/organisation of interviewee</value></text><text id="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interviewer_name/Vivienne Kuma:label"><value>Vivienne Kuma</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:label"><value>I am now going to show you the consent form for this interview where you can review what you are agreeing to if you consent to being a participant in this study and be interviewed.</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3:label"><value>Mi givim tok orait lo usim ol toktok bilong me lo ol arapela wok painim</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/3:label"><value>I do not agree to be interviewed</value></text><text id="/stakeholderinterviews/interviewee_group1/interview_group_audio:label"><value>Start focus group discussion recording.</value></text><text id="/stakeholderinterviews/interview_group/pis_group:label"><value>Participant Information Sheet - Focus Group Discussion</value></text><text id="/stakeholderinterviews/pis_individual/pis_policymaker1:label"><value>Do you have any questions regarding the study based on the participant information sheet we have provided you earlier?
+Global Challenges Research Fund, University of Oxford, ol e givim mani lo wokim dispela wok painim aut.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual/interview_no_audio:hint">
+            <value>**REQUIRED:** Type in notes from the interview.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_name:hint">
+            <value>**REQUIRED:** Enter full name of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_organisation:label">
+            <value>Department/organisation of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name/Vivienne Kuma:label">
+            <value>Vivienne Kuma</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:label">
+            <value>I am now going to show you the consent form for this interview where you can review what you are agreeing to if you consent to being a participant in this study and be interviewed.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3:label">
+            <value>Mi givim tok orait lo usim ol toktok bilong me lo ol arapela wok painim</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/3:label">
+            <value>I do not agree to be interviewed</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1/interview_group_audio:label">
+            <value>Start focus group discussion recording.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group:label">
+            <value>Participant Information Sheet - Focus Group Discussion</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/pis_policymaker1:label">
+            <value>Do you have any questions regarding the study based on the participant information sheet we have provided you earlier?
 
-&lt;small&gt;If participant has any questions, address them accordingly. If a question has been raised that you feel you are unable to answer or requires someone else from the team to answer, inform the participant that you will refer his/her question to the appropriate team member.&lt;/small&gt;</value></text><text id="/stakeholderinterviews/end_unsure_consent:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; unsure of consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; and ask when you can call back to confirm consent.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_6:label"><value>&lt;h3&gt;Wanem samtin bai kamap lo olgeta wanwan bekim blo mipla blo ol kwesten yupla askim&lt;/h3&gt;
+&lt;small&gt;If participant has any questions, address them accordingly. If a question has been raised that you feel you are unable to answer or requires someone else from the team to answer, inform the participant that you will refer his/her question to the appropriate team member.&lt;/small&gt;</value>
+          </text>
+          <text id="/stakeholderinterviews/end_unsure_consent:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; unsure of consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; and ask when you can call back to confirm consent.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_6:label">
+            <value>&lt;h3&gt;Wanem samtin bai kamap lo olgeta wanwan bekim blo mipla blo ol kwesten yupla askim&lt;/h3&gt;
 
-Wanwan manmeri mipla wok bung wantaim, mipla bai givim wanwan namba blo yupela yet. Displa wei, wanem bekim blo yu lo ol askim blo mipla, nogat wanpla bai save wanem samtin yu tokim mipla. Olgeta ol toktok mipla rekodim, taim mipla pinis lo raitim lo pepa na chekim, bai mipla rausim go. Ol woklain blo displa stadi tasol bai enap lo lukim olgeta wok painim aut mipla kisim. Sapos yu laikim, mipela ken givim yu ol rekod na olgeda toktok bun wantaim na soim yu lo olgeda wok painim na pepa wok tu.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not provided consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.</value></text><text id="/stakeholderinterviews/interviewee_type/6:label"><value>Fathers</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual2/1:label"><value>I agree to be interviewed and for the interview to be digitally recorded</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual2:label"><value>Consent for interview and for interview to be recorded.</value></text><text id="/stakeholderinterviews/interviewee_individual:label"><value>Individual interviews for policymaker, service provider or community leader</value></text><text id="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:hint"><value>**REQUIRED:** Enter full name of interviewee</value></text><text id="/stakeholderinterviews/interviewee_group1:label"><value>Group interviews for pregnant women, mothers or fathers</value></text><text id="/stakeholderinterviews/interviewee_type/2:label"><value>Service provider</value></text><text id="/stakeholderinterviews/pis_individual/pis_policymaker3:label"><value>All question/s that have not been addressed have been noted and will be referred to appropriate team member.</value></text><text id="/stakeholderinterviews/interviewer_name:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interviewee_type/5:label"><value>Mothers</value></text><text id="/stakeholderinterviews/pis_individual/pis_policymaker2:label"><value>All question/s regarding the study have been addressed.</value></text><text id="/stakeholderinterviews/pis_individual/consent_signature:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_5:label"><value>&lt;h3&gt;Igat ol sampla hevi ken kamap lo ol lain husait bai kam in lo dispel wok painim aut?&lt;/h3&gt;
+Wanwan manmeri mipla wok bung wantaim, mipla bai givim wanwan namba blo yupela yet. Displa wei, wanem bekim blo yu lo ol askim blo mipla, nogat wanpla bai save wanem samtin yu tokim mipla. Olgeta ol toktok mipla rekodim, taim mipla pinis lo raitim lo pepa na chekim, bai mipla rausim go. Ol woklain blo displa stadi tasol bai enap lo lukim olgeta wok painim aut mipla kisim. Sapos yu laikim, mipela ken givim yu ol rekod na olgeda toktok bun wantaim na soim yu lo olgeda wok painim na pepa wok tu.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not provided consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/6:label">
+            <value>Fathers</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2/1:label">
+            <value>I agree to be interviewed and for the interview to be digitally recorded</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2:label">
+            <value>Consent for interview and for interview to be recorded.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual:label">
+            <value>Individual interviews for policymaker, service provider or community leader</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:hint">
+            <value>**REQUIRED:** Enter full name of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1:label">
+            <value>Group interviews for pregnant women, mothers or fathers</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/2:label">
+            <value>Service provider</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/pis_policymaker3:label">
+            <value>All question/s that have not been addressed have been noted and will be referred to appropriate team member.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/5:label">
+            <value>Mothers</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/pis_policymaker2:label">
+            <value>All question/s regarding the study have been addressed.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_signature:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_5:label">
+            <value>&lt;h3&gt;Igat ol sampla hevi ken kamap lo ol lain husait bai kam in lo dispel wok painim aut?&lt;/h3&gt;
 
-Nogat. Sapos yu no filim gud lo ol askim blo mipla yu ken stopim ol askim blo mipla lo laik bilong yu.</value></text><text id="/stakeholderinterviews/pis_individual:label"><value>Participant Information Sheet - Individual interviewee</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/3:label"><value>No, but the information I provide may be used to inform the overall analysis.</value></text><text id="/stakeholderinterviews/interview_group/group_number:label"><value>How many &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type_name "/>&lt;/span&gt; are part of the focus group discussion?</value></text><text id="/stakeholderinterviews/interviewee_type/1:label"><value>Policymaker</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_position:hint"><value>**REQUIRED:** Enter the position of the interviewee in the department or organisation</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group_signature:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interviewee_individual/interview_audio:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has consented to audio recording of the interview.
+Nogat. Sapos yu no filim gud lo ol askim blo mipla yu ken stopim ol askim blo mipla lo laik bilong yu.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual:label">
+            <value>Participant Information Sheet - Individual interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/3:label">
+            <value>No, but the information I provide may be used to inform the overall analysis.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/group_number:label">
+            <value> How many &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type_name "/>&lt;/span&gt; are part of the focus group discussion?  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/1:label">
+            <value>Policymaker</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_position:hint">
+            <value>**REQUIRED:** Enter the position of the interviewee in the department or organisation</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group_signature:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual/interview_audio:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has consented to audio recording of the interview.
 
-Start interview recording.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_8:label"><value>&lt;h3&gt; Dispela wok painim aut I bai kamap lo ol bikpela pepa bilon ol save man me&lt;/h3&gt;
+Start interview recording.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_8:label">
+            <value>&lt;h3&gt; Dispela wok painim aut I bai kamap lo ol bikpela pepa bilon ol save man me&lt;/h3&gt;
 
-Mipela bai toksave lo ol bos man meri na ol narapela man meri usait save lukautim helt bilong or mama na ol niupela bebi insait lo PNG. Mipela bai toksave tu wantaim ol narapela wok man na meri olsem mipela na insait lo Sience. Mipela bai putim tu lo pepa bilong ol save man meri insait lo PNG na narapela ol kantri tu. Mipela toksave lo yu olsem mipela bai nonap putim nem bilong yu na luksave bilong yu. Olgeda has tintin lo dispela wok painim bai kamap lo ol miting wantem ol bikpela bos bilong PNG usait save lukautim sindaun bilong ol mama na ol niupela bebi.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_11:label"><value>&lt;h3&gt;Bai mi toktok lo husait sapos mi gat wanpla wari or mi no kisim bel isi lo displa wok painim?&lt;/h3&gt;
+Mipela bai toksave lo ol bos man meri na ol narapela man meri usait save lukautim helt bilong or mama na ol niupela bebi insait lo PNG. Mipela bai toksave tu wantaim ol narapela wok man na meri olsem mipela na insait lo Sience. Mipela bai putim tu lo pepa bilong ol save man meri insait lo PNG na narapela ol kantri tu. Mipela toksave lo yu olsem mipela bai nonap putim nem bilong yu na luksave bilong yu. Olgeda has tintin lo dispela wok painim bai kamap lo ol miting wantem ol bikpela bos bilong PNG usait save lukautim sindaun bilong ol mama na ol niupela bebi.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_11:label">
+            <value>&lt;h3&gt;Bai mi toktok lo husait sapos mi gat wanpla wari or mi no kisim bel isi lo displa wok painim?&lt;/h3&gt;
 
 Sapos yu gat wanpla wari lo wanpla pat blo dispel wok painim, please ringim Dr Vivienne Kuma (tel +675 72143853). Mipla bai traim best blo mipla lo bekim wanem askim yu gat. Sapos mipla no bekim gut askim blo yu, o yu laik save mor, plis rigim displa namba.
 
-Em namba blo wanpla wanwok lol Universiti of Papua New Guinea, School of Medicine and Health Science Ethics Committee. Bos Man bilong Etics Comite (tel +675 311 2626)</value></text><text id="/stakeholderinterviews/interviewee_type:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_1:label"><value>&lt;h3&gt;Lo wanem has mipela I wokim dispela wok paininm na dispel wok painim em bilong wanem samting steret?&lt;/h3&gt;
+Em namba blo wanpla wanwok lol Universiti of Papua New Guinea, School of Medicine and Health Science Ethics Committee. Bos Man bilong Etics Comite (tel +675 311 2626)</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_1:label">
+            <value>&lt;h3&gt;Lo wanem has mipela I wokim dispela wok paininm na dispel wok painim em bilong wanem samting steret?&lt;/h3&gt;
 
 Papua New Guinea em I wokim bikpela wok lo surukim kam daun ol indai bilong ol mama na ol nuipela babi wer bon insait lo kantri. Lo yia 1990 kam inap lon 2015, insait lo kantri, indai bilong ol mama I go daun olsem 25%, tasol sapos yu lukluk lo ol narapela hap insait lo world, ol indai bilong ol mama na nuipela bon babi bilong yumi, I stap antap yet. Mipela wokim dispel wok painim aut na luksave lo wanem samting we I sa wokim na planti mama na nuipla bon pikinini save indai lo em.
 
-Dispela wok painim aut bai lukluk long ol rekod we ol I stap pinis bilong lukautim ol mama na nuipela bebi na tu kisim tingting bilong ol wanwan grup we mipela I ken bung wantaim na wok bung wantaim. Ol komuniti lida, memba na ol wok man na meri bilong helt. Wok painim aut mipela kisim bai halivim lo lukluk lo ol program na polici we I ken halivim helt bilong ol mama na ol nuipla born babi insait long PNG.</value></text><text id="/stakeholderinterviews/interview_group:label"><value>Group interviews for pregnant women, mothers or fathers</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3/2:label"><value>Yes, as long as I review the quote before it is used</value></text><text id="/stakeholderinterviews/interview_group/pis_group/pis_group2:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interviewee_group1/interview_group_no_audio:label"><value>Not all &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type "/>&lt;/span&gt; has consented to auido recording of focus group discussion.
+Dispela wok painim aut bai lukluk long ol rekod we ol I stap pinis bilong lukautim ol mama na nuipela bebi na tu kisim tingting bilong ol wanwan grup we mipela I ken bung wantaim na wok bung wantaim. Ol komuniti lida, memba na ol wok man na meri bilong helt. Wok painim aut mipela kisim bai halivim lo lukluk lo ol program na polici we I ken halivim helt bilong ol mama na ol nuipla born babi insait long PNG.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group:label">
+            <value>Group interviews for pregnant women, mothers or fathers</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3/2:label">
+            <value>Yes, as long as I review the quote before it is used</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/pis_group2:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1/interview_group_no_audio:label">
+            <value> Not all &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type "/>&lt;/span&gt; has consented to auido recording of focus group discussion.
 
-Start taking notes of the focus group discussion.</value></text><text id="/stakeholderinterviews/interviewer_name/Ezekiel Kopono:label"><value>Ezekiel Kopono</value></text></translation><translation default="true()" lang="English"><text id="/stakeholderinterviews/pis_individual/consent_individual2/3:label"><value>I do not agree to be interviewed</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/1:label"><value>Yes, as long as any information that might be used to identify me remains anonymous</value></text><text id="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; unsure of consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; and ask when you can call back to confirm consent.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_9:label"><value>&lt;h3&gt;Who has reviewed this project?&lt;/h3&gt;
+Start taking notes of the focus group discussion.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name/Ezekiel Kopono:label">
+            <value>Ezekiel Kopono</value>
+          </text>
+        </translation>
+        <translation default="true()" lang="English">
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2/3:label">
+            <value>I do not agree to be interviewed</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/1:label">
+            <value>Yes, as long as any information that might be used to identify me remains anonymous</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; unsure of consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; and ask when you can call back to confirm consent.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_9:label">
+            <value>&lt;h3&gt;Who has reviewed this project?&lt;/h3&gt;
 
-This project has been reviewed by two separate ethics committees: the University of Papua New Guinea, School of Medicine and Health Science ethics committee, and the ethics committee of the University of Oxford Tropical Research.</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual2/4:label"><value>Not sure</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_position:label"><value>Position of interviewee</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group_signature:label"><value>Signature</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2:label"><value>Consent for interview and for interview to be recorded.</value></text><text id="/stakeholderinterviews/interviewer_name:label"><value>Name of interviewer</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_2:label"><value>&lt;h3&gt;Do I have to take part?&lt;/h3&gt;
+This project has been reviewed by two separate ethics committees: the University of Papua New Guinea, School of Medicine and Health Science ethics committee, and the ethics committee of the University of Oxford Tropical Research.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2/4:label">
+            <value>Not sure</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_position:label">
+            <value>Position of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group_signature:label">
+            <value>Signature</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2:label">
+            <value>Consent for interview and for interview to be recorded.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name:label">
+            <value>Name of interviewer</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_2:label">
+            <value>&lt;h3&gt;Do I have to take part?&lt;/h3&gt;
 
-You do not have to take part. Your participation is entirely voluntary and will not in any way affect the care or services provided to you and your children. You can ask questions before deciding to participate. You may decide now or at any time that you no longer want to participate and if so, do not need to provide any reason for leaving. If you choose not to participate, or if you choose to withdraw from the study at any time, this will not affect the care you receive from any health service.</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3/1:label"><value>Yes, as long as any information that might be used to identify me remains anonymous</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction:label"><value>Good morining/Good afternoon.
+You do not have to take part. Your participation is entirely voluntary and will not in any way affect the care or services provided to you and your children. You can ask questions before deciding to participate. You may decide now or at any time that you no longer want to participate and if so, do not need to provide any reason for leaving. If you choose not to participate, or if you choose to withdraw from the study at any time, this will not affect the care you receive from any health service.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3/1:label">
+            <value>Yes, as long as any information that might be used to identify me remains anonymous</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction:label">
+            <value> Good morining/Good afternoon.
 
 My name is &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewer_name "/>&lt;/span&gt; and I am a researcher for a study entitled &lt;strong&gt;Maternal and newborn health in Papua New Guinea: A synthesis of evidence and identification of gaps&lt;/strong&gt;.
 
-I am here to invite you as a relevant stakeholder on the topic of maternal and neonatal health in Papua New Guinea for a focus group discussion for &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type_name "/>&lt;/span&gt;.</value></text><text id="/stakeholderinterviews/pis_individual/consent_signature:label"><value>Signature</value></text><text id="/stakeholderinterviews/interviewee_group1/interview_group_no_audio:hint"><value>**REQUIRED:** Type in notes from the interview.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_4:label"><value>&lt;h3&gt;What will happen in the research study?&lt;/h3&gt;
+I am here to invite you as a relevant stakeholder on the topic of maternal and neonatal health in Papua New Guinea for a focus group discussion for &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type_name "/>&lt;/span&gt;.  </value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_signature:label">
+            <value>Signature</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1/interview_group_no_audio:hint">
+            <value>**REQUIRED:** Type in notes from the interview.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_4:label">
+            <value>&lt;h3&gt;What will happen in the research study?&lt;/h3&gt;
 
-If you choose to participate in the research study, you will first be asked to sign a consent form. We will then ask you to complete a brief set of questions about yourself, your schooling, work, your family and household, social support and past experiences with your pregnancy and delivery. After that we will invite you to sit together with a small group of women or men of your age to talk about your experience and views on maternal and newborn care in PNG. A researcher will be there to take notes of your discussion. The session will be recorded. This will take approximately 1.5 hours. You are free to stop or leave the discussion at any point.</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual1:label"><value>My name is &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.
+If you choose to participate in the research study, you will first be asked to sign a consent form. We will then ask you to complete a brief set of questions about yourself, your schooling, work, your family and household, social support and past experiences with your pregnancy and delivery. After that we will invite you to sit together with a small group of women or men of your age to talk about your experience and views on maternal and newborn care in PNG. A researcher will be there to take notes of your discussion. The session will be recorded. This will take approximately 1.5 hours. You are free to stop or leave the discussion at any point.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual1:label">
+            <value> My name is &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.
 
 1. I have read the information sheet and have had the opportunity to ask questions and received satisfactory answers.
 
@@ -114,9 +478,21 @@ If you choose to participate in the research study, you will first be asked to s
 
 7. I understand that I can raise concerns or make a complaint any time necessary.
 
-8. I have had the study explained to me. I have understood all that has been read and had my questions answered satisfactorily.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interviewee_individual/interview_preamble:label"><value>You are now going to interview &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.
+8. I have had the study explained to me. I have understood all that has been read and had my questions answered satisfactorily.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual/interview_preamble:label">
+            <value> You are now going to interview &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.
 
-Make sure you cover all of the topics indicated in the interview guide.</value></text><text id="/stakeholderinterviews/pis_individual/consent_introduction:label"><value>I am now going to show you the consent form for this interview where you can review what you are agreeing to if you consent to being a participant in this study and be interviewed.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group1:label"><value>My name is &lt;span style=&quot;color:blue&gt;<output value=" /stakeholderinterviews/interview_group/pis_group/interviewee_group_name "/>&lt;/span&gt;.
+Make sure you cover all of the topics indicated in the interview guide.  </value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_introduction:label">
+            <value>I am now going to show you the consent form for this interview where you can review what you are agreeing to if you consent to being a participant in this study and be interviewed.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group1:label">
+            <value> My name is &lt;span style=&quot;color:blue&gt;<output value=" /stakeholderinterviews/interview_group/pis_group/interviewee_group_name "/>&lt;/span&gt;.
 
 1. I have read the information sheet and have had the opportunity to ask questions and received satisfactory answers.
 
@@ -134,44 +510,718 @@ Make sure you cover all of the topics indicated in the interview guide.</value><
 
 8. I have had the study explained to me. I have understood all that has been read and had my questions answered satisfactorily.
 
-9. I understand that I can change my mind at any stage and it will not affect me or my baby in any way.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/pis_group1:label"><value>Do you have any questions regarding the study based on the participant information sheet we have provided you earlier?
+9. I understand that I can change my mind at any stage and it will not affect me or my baby in any way.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/pis_group1:label">
+            <value>Do you have any questions regarding the study based on the participant information sheet we have provided you earlier?
 
-&lt;small&gt;If participant has any questions, address them accordingly. If a question has been raised that you feel you are unable to answer or requires someone else from the team to answer, inform the participant that you will refer his/her question to the appropriate team member.&lt;/small&gt;</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/1:label"><value>I agree to be interviewed and for the interview to be digitally recorded</value></text><text id="/stakeholderinterviews/interviewee_group1/interview_group_preamble:label"><value>Your are now going to conduct a focus group discussion.
+&lt;small&gt;If participant has any questions, address them accordingly. If a question has been raised that you feel you are unable to answer or requires someone else from the team to answer, inform the participant that you will refer his/her question to the appropriate team member.&lt;/small&gt;</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/1:label">
+            <value>I agree to be interviewed and for the interview to be digitally recorded</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1/interview_group_preamble:label">
+            <value>Your are now going to conduct a focus group discussion.
 
-Make sure you cover all of the topics indicated in the interview guide.</value></text><text id="/stakeholderinterviews/interviewer_name/Agatha Afasi:label"><value>Agatha Afasi</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_10:label"><value>&lt;h3&gt;Would I receive any compensation if I take part?&lt;/h3&gt;
+Make sure you cover all of the topics indicated in the interview guide.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name/Agatha Afasi:label">
+            <value>Agatha Afasi</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_10:label">
+            <value>&lt;h3&gt;Would I receive any compensation if I take part?&lt;/h3&gt;
 
-There are no personal benefits to taking part, but your responses will contribute to knowledge that may help to improve the services offered for women in perinatal period and newborns here in PNG. You will be reimbursed for the transport cost incurred when you travel to and from study meetings and compensated for time lost during the discussions.</value></text><text id="/stakeholderinterviews/interviewee_type/4:label"><value>Pregnant women</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/4:label"><value>Other stipulations</value></text><text id="/stakeholderinterviews/interview_group/pis_group/pis_group3:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/pis_group3:label"><value>All question/s that have not been addressed have been noted and will be referred to appropriate team member.</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3/3:label"><value>No, but the information I provide may be used to inform the overall analysis.</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_organisation:hint"><value>**REQUIRED:** Enter the name of department or organisation the interviewee is affiliated with</value></text><text id="/stakeholderinterviews/interview_group/group_number:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_3:label"><value>&lt;h3&gt;Who are the other participants of this study?&lt;/h3&gt;
+There are no personal benefits to taking part, but your responses will contribute to knowledge that may help to improve the services offered for women in perinatal period and newborns here in PNG. You will be reimbursed for the transport cost incurred when you travel to and from study meetings and compensated for time lost during the discussions.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/4:label">
+            <value>Pregnant women</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/4:label">
+            <value>Other stipulations</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/pis_group3:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/pis_group3:label">
+            <value>All question/s that have not been addressed have been noted and will be referred to appropriate team member.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3/3:label">
+            <value>No, but the information I provide may be used to inform the overall analysis.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_organisation:hint">
+            <value>**REQUIRED:** Enter the name of department or organisation the interviewee is affiliated with</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/group_number:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_3:label">
+            <value>&lt;h3&gt;Who are the other participants of this study?&lt;/h3&gt;
 
-We will invite different groups of participants to take part in interviews or focus group discussions. These include mothers and fathers, community leaders, healthcare providers, policy makers and others involved in maternal and newborn health.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:hint"><value>**REQUIRED:** If interviewee unable to read, read the consent form to the interviewee.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_7:label"><value>&lt;h3&gt;How will the information be used?&lt;/h3&gt;
+We will invite different groups of participants to take part in interviews or focus group discussions. These include mothers and fathers, community leaders, healthcare providers, policy makers and others involved in maternal and newborn health.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:hint">
+            <value>**REQUIRED:** If interviewee unable to read, read the consent form to the interviewee.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_7:label">
+            <value>&lt;h3&gt;How will the information be used?&lt;/h3&gt;
 
-We will share what we find with local authorities and with other healthcare providers on maternal and newborn care in PNG in order to help improve services and interventions for maternal and newborn health. We may also share our results with other researchers and scientists by publishing the report in a journal and international conferences. Again, we will never identify you by your name or any other personal data.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3:label"><value>I agree to the use of anonymous quotes in future publications</value></text><text id="/stakeholderinterviews/pis_individual/pis_policymaker2:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/4:label"><value>Not sure</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3/4:label"><value>Other stipulations</value></text><text id="/stakeholderinterviews/interviewee_individual/interview_audio:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/pis_group2:label"><value>All question/s regarding the study have been addressed.</value></text><text id="/stakeholderinterviews/interviewer_name/Laura Naidi:label"><value>Laura Naidi</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/2:label"><value>I agree to be intervivewed but **not** for the interview to be digitally recorded</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual2:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:label"><value>Name of interviewee</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual2/2:label"><value>I agree to be intervivewed but **not** for the interview to be digitally recorded</value></text><text id="/stakeholderinterviews/pis_individual/pis_policymaker3:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_name:label"><value>Name of interviewee</value></text><text id="/stakeholderinterviews/interviewee_individual/interview_no_audio:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not consented to auido recording of interview.
+We will share what we find with local authorities and with other healthcare providers on maternal and newborn care in PNG in order to help improve services and interventions for maternal and newborn health. We may also share our results with other researchers and scientists by publishing the report in a journal and international conferences. Again, we will never identify you by your name or any other personal data.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3:label">
+            <value>I agree to the use of anonymous quotes in future publications</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/pis_policymaker2:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/4:label">
+            <value>Not sure</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3/4:label">
+            <value>Other stipulations</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual/interview_audio:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/pis_group2:label">
+            <value>All question/s regarding the study have been addressed.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name/Laura Naidi:label">
+            <value>Laura Naidi</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/2:label">
+            <value>I agree to be intervivewed but **not** for the interview to be digitally recorded</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:label">
+            <value>Name of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2/2:label">
+            <value>I agree to be intervivewed but **not** for the interview to be digitally recorded</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/pis_policymaker3:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_name:label">
+            <value>Name of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual/interview_no_audio:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not consented to auido recording of interview.
 
-Start taking notes of the interview.</value></text><text id="/stakeholderinterviews/interview_end:label"><value>Interview finished.
+Start taking notes of the interview.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_end:label">
+            <value> Interview finished.
 
-Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.</value></text><text id="/stakeholderinterviews/interviewee_type/3:label"><value>Community leader</value></text><text id="/stakeholderinterviews/pis_individual/individual_introduction:label"><value>Good morining/Good afternoon.
+Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/3:label">
+            <value>Community leader</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/individual_introduction:label">
+            <value> Good morining/Good afternoon.
 
 My name is &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewer_name "/>&lt;/span&gt; and I am a researcher for a study entitled &lt;span style=&quot;color:blue&quot;&gt;Maternal and newborn health in Papua New Guinea: A synthesis of evidence and identification of gaps&lt;/span&gt;.
 
-I am here to interview you as a relevant stakeholder on the topic of maternal and neonatal health in Papua New Guinea.</value></text><text id="/stakeholderinterviews/interviewee_group1/interview_group_audio:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/2:label"><value>Yes, as long as I review the quote before it is used</value></text><text id="/stakeholderinterviews/end_no_consent:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not provided consent. Stop interview.</value></text><text id="/stakeholderinterviews/interviewee_type:label"><value>Type of interviewee</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_12:label"><value>&lt;h3&gt;Who is doing this study, where would it be done and by whom is it sponsored?&lt;/h3&gt;
+I am here to interview you as a relevant stakeholder on the topic of maternal and neonatal health in Papua New Guinea.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1/interview_group_audio:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/2:label">
+            <value>Yes, as long as I review the quote before it is used</value>
+          </text>
+          <text id="/stakeholderinterviews/end_no_consent:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not provided consent. Stop interview.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type:label">
+            <value>Type of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_12:label">
+            <value>&lt;h3&gt;Who is doing this study, where would it be done and by whom is it sponsored?&lt;/h3&gt;
 
 The Principal Investigator is Dr Proochista Ariana from Oxford University. She is supported by a team of local and international researchers in collaboration with local health authorities. All research by Oxford University has to be approved before it begins by several committees include the University's ethical group and local committee in the country where the research is being carried out. These committees carefully review planned work to agree that the research is important, relevant to the local country and follows nationally and internationally agreed guidelines. This includes ensuring that all participants' safety and rights are respected. 
 
-The research is sponsored by a Global Challenges Research Fund, University of Oxford.</value></text><text id="/stakeholderinterviews/interviewee_individual/interview_no_audio:hint"><value>**REQUIRED:** Type in notes from the interview.</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_name:hint"><value>**REQUIRED:** Enter full name of interviewee</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_organisation:label"><value>Department/organisation of interviewee</value></text><text id="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interviewer_name/Vivienne Kuma:label"><value>Vivienne Kuma</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:label"><value>I am now going to show you the consent form for this interview where you can review what you are agreeing to if you consent to being a participant in this study and be interviewed.</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3:label"><value>I agree to the use of anonymous quotes in future publications</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/3:label"><value>I do not agree to be interviewed</value></text><text id="/stakeholderinterviews/interviewee_group1/interview_group_audio:label"><value>Start focus group discussion recording.</value></text><text id="/stakeholderinterviews/interview_group/pis_group:label"><value>Participant Information Sheet - Focus Group Discussion</value></text><text id="/stakeholderinterviews/pis_individual/pis_policymaker1:label"><value>Do you have any questions regarding the study based on the participant information sheet we have provided you earlier?
+The research is sponsored by a Global Challenges Research Fund, University of Oxford.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual/interview_no_audio:hint">
+            <value>**REQUIRED:** Type in notes from the interview.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_name:hint">
+            <value>**REQUIRED:** Enter full name of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_organisation:label">
+            <value>Department/organisation of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name/Vivienne Kuma:label">
+            <value>Vivienne Kuma</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:label">
+            <value>I am now going to show you the consent form for this interview where you can review what you are agreeing to if you consent to being a participant in this study and be interviewed.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3:label">
+            <value>I agree to the use of anonymous quotes in future publications</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group2/3:label">
+            <value>I do not agree to be interviewed</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1/interview_group_audio:label">
+            <value>Start focus group discussion recording.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group:label">
+            <value>Participant Information Sheet - Focus Group Discussion</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/pis_policymaker1:label">
+            <value>Do you have any questions regarding the study based on the participant information sheet we have provided you earlier?
 
-&lt;small&gt;If participant has any questions, address them accordingly. If a question has been raised that you feel you are unable to answer or requires someone else from the team to answer, inform the participant that you will refer his/her question to the appropriate team member.&lt;/small&gt;</value></text><text id="/stakeholderinterviews/end_unsure_consent:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; unsure of consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; and ask when you can call back to confirm consent.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_6:label"><value>&lt;h3&gt;What happens to the research data provided?&lt;/h3&gt;
+&lt;small&gt;If participant has any questions, address them accordingly. If a question has been raised that you feel you are unable to answer or requires someone else from the team to answer, inform the participant that you will refer his/her question to the appropriate team member.&lt;/small&gt;</value>
+          </text>
+          <text id="/stakeholderinterviews/end_unsure_consent:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; unsure of consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; and ask when you can call back to confirm consent.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_6:label">
+            <value>&lt;h3&gt;What happens to the research data provided?&lt;/h3&gt;
 
-We will speak to you in groups in a private room. We will not share information you have provided with anyone else. Each participant will be assigned an identification number to preserve anonymity. In this way, everything you say will remain anonymous. The recordings will be destroyed once the transcripts have been checked for accuracy. Only the study staff will have access to your information.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not provided consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.</value></text><text id="/stakeholderinterviews/interviewee_type/6:label"><value>Fathers</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual2/1:label"><value>I agree to be interviewed and for the interview to be digitally recorded</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual2:label"><value>Consent for interview and for interview to be recorded.</value></text><text id="/stakeholderinterviews/interviewee_individual:label"><value>Individual interviews for policymaker, service provider or community leader</value></text><text id="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:hint"><value>**REQUIRED:** Enter full name of interviewee</value></text><text id="/stakeholderinterviews/interviewee_group1:label"><value>Group interviews for pregnant women, mothers or fathers</value></text><text id="/stakeholderinterviews/interviewee_type/2:label"><value>Service provider</value></text><text id="/stakeholderinterviews/pis_individual/pis_policymaker3:label"><value>All question/s that have not been addressed have been noted and will be referred to appropriate team member.</value></text><text id="/stakeholderinterviews/interviewer_name:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interviewee_type/5:label"><value>Mothers</value></text><text id="/stakeholderinterviews/pis_individual/pis_policymaker2:label"><value>All question/s regarding the study have been addressed.</value></text><text id="/stakeholderinterviews/pis_individual/consent_signature:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_5:label"><value>&lt;h3&gt;Are there any potential risks in taking part on this study?&lt;/h3&gt;
+We will speak to you in groups in a private room. We will not share information you have provided with anyone else. Each participant will be assigned an identification number to preserve anonymity. In this way, everything you say will remain anonymous. The recordings will be destroyed once the transcripts have been checked for accuracy. Only the study staff will have access to your information.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has not provided consent. Stop interview. Thank &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt;.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/6:label">
+            <value>Fathers</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2/1:label">
+            <value>I agree to be interviewed and for the interview to be digitally recorded</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual2:label">
+            <value>Consent for interview and for interview to be recorded.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual:label">
+            <value>Individual interviews for policymaker, service provider or community leader</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:hint">
+            <value>**REQUIRED:** Enter full name of interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1:label">
+            <value>Group interviews for pregnant women, mothers or fathers</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/2:label">
+            <value>Service provider</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/pis_policymaker3:label">
+            <value>All question/s that have not been addressed have been noted and will be referred to appropriate team member.</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/5:label">
+            <value>Mothers</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/pis_policymaker2:label">
+            <value>All question/s regarding the study have been addressed.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_signature:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_5:label">
+            <value>&lt;h3&gt;Are there any potential risks in taking part on this study?&lt;/h3&gt;
 
-No. If you become distressed or sad as a result of the interview or the discussions, you can decide to stop at any time.</value></text><text id="/stakeholderinterviews/pis_individual:label"><value>Participant Information Sheet - Individual interviewee</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/3:label"><value>No, but the information I provide may be used to inform the overall analysis.</value></text><text id="/stakeholderinterviews/interview_group/group_number:label"><value>How many &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type_name "/>&lt;/span&gt; are part of the focus group discussion?</value></text><text id="/stakeholderinterviews/interviewee_type/1:label"><value>Policymaker</value></text><text id="/stakeholderinterviews/pis_individual/interviewee_position:hint"><value>**REQUIRED:** Enter the position of the interviewee in the department or organisation</value></text><text id="/stakeholderinterviews/interview_group/pis_group/consent_group_signature:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interviewee_individual/interview_audio:label"><value>&lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has consented to audio recording of the interview.
+No. If you become distressed or sad as a result of the interview or the discussions, you can decide to stop at any time.</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual:label">
+            <value>Participant Information Sheet - Individual interviewee</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group3/3:label">
+            <value>No, but the information I provide may be used to inform the overall analysis.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/group_number:label">
+            <value> How many &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type_name "/>&lt;/span&gt; are part of the focus group discussion?  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type/1:label">
+            <value>Policymaker</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/interviewee_position:hint">
+            <value>**REQUIRED:** Enter the position of the interviewee in the department or organisation</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/consent_group_signature:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_individual/interview_audio:label">
+            <value> &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/pis_individual/interviewee_name "/>&lt;/span&gt; has consented to audio recording of the interview.
 
-Start interview recording.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_8:label"><value>&lt;h3&gt;Will the research study be published?&lt;/h3&gt;
+Start interview recording.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_8:label">
+            <value>&lt;h3&gt;Will the research study be published?&lt;/h3&gt;
 
-Each participant will be assigned an identification number to preserve anonymity. The recordings will be destroyed once the transcripts have been checked for accuracy. Only the study staff will have access to your information. We can provide you with transcripts of the interview upon request and indicate how the information provided is being used.</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_11:label"><value>&lt;h3&gt;Who do I contact if I have a concern about the study or I wish to complain?&lt;/h3&gt;
+Each participant will be assigned an identification number to preserve anonymity. The recordings will be destroyed once the transcripts have been checked for accuracy. Only the study staff will have access to your information. We can provide you with transcripts of the interview upon request and indicate how the information provided is being used.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_11:label">
+            <value>&lt;h3&gt;Who do I contact if I have a concern about the study or I wish to complain?&lt;/h3&gt;
 
-If you have a concern about any aspect of this project, please contact &lt;span style="color:blue"&gt;Dr Vivienne Kuma (tel +675 72143853)&lt;/span&gt;. We will do our best to answer any of your queries. If you have not been treated as stated above or wish to know participants' rights, please contact: 
+If you have a concern about any aspect of this project, please contact &lt;span style=&quot;color:blue&quot;&gt;Dr Vivienne Kuma (tel +675 72143853)&lt;/span&gt;. We will do our best to answer any of your queries. If you have not been treated as stated above or wish to know participants' rights, please contact: 
 
-University of Papua New Guinea, School of Medicine and Health Science Ethics Committee. Contact Details: ***</value></text><text id="/stakeholderinterviews/interviewee_type:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_1:label"><value>&lt;h3&gt;Why are we doing a study and what is it about?&lt;/h3&gt;
+University of Papua New Guinea, School of Medicine and Health Science Ethics Committee. Contact Details: ***</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_type:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/group_introduction_1:label">
+            <value>&lt;h3&gt;Why are we doing a study and what is it about?&lt;/h3&gt;
 
-Papua New Guinea has made considerable efforts to reduce maternal and newborn deaths. Despite achieving reductions in maternal deaths, maternal and newborn deaths remain unacceptably high compared to other parts of the world. We are conducting this research to better understand the factors that contribute to the high rates of deaths in mothers and their newborns. Information we gain from this research will be help inform national policies and programmes that aim to improve maternal and neonatal health in PNG.</value></text><text id="/stakeholderinterviews/interview_group:label"><value>Group interviews for pregnant women, mothers or fathers</value></text><text id="/stakeholderinterviews/pis_individual/consent_individual3/2:label"><value>Yes, as long as I review the quote before it is used</value></text><text id="/stakeholderinterviews/interview_group/pis_group/pis_group2:hint"><value>**REQUIRED**</value></text><text id="/stakeholderinterviews/interviewee_group1/interview_group_no_audio:label"><value>Not all &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type "/>&lt;/span&gt; has consented to auido recording of focus group discussion.
+Papua New Guinea has made considerable efforts to reduce maternal and newborn deaths. Despite achieving reductions in maternal deaths, maternal and newborn deaths remain unacceptably high compared to other parts of the world. We are conducting this research to better understand the factors that contribute to the high rates of deaths in mothers and their newborns. Information we gain from this research will be help inform national policies and programmes that aim to improve maternal and neonatal health in PNG.</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group:label">
+            <value>Group interviews for pregnant women, mothers or fathers</value>
+          </text>
+          <text id="/stakeholderinterviews/pis_individual/consent_individual3/2:label">
+            <value>Yes, as long as I review the quote before it is used</value>
+          </text>
+          <text id="/stakeholderinterviews/interview_group/pis_group/pis_group2:hint">
+            <value>**REQUIRED**</value>
+          </text>
+          <text id="/stakeholderinterviews/interviewee_group1/interview_group_no_audio:label">
+            <value> Not all &lt;span style=&quot;color:blue&quot;&gt;<output value=" /stakeholderinterviews/interviewee_type "/>&lt;/span&gt; has consented to auido recording of focus group discussion.
 
-Start taking notes of the focus group discussion.</value></text><text id="/stakeholderinterviews/interviewer_name/Ezekiel Kopono:label"><value>Ezekiel Kopono</value></text></translation></itext><instance><stakeholderinterviews id="stakeholderinterviews"><interviewer_name/><interviewee_type/><interviewee_type_name/><pis_individual><individual_introduction/><pis_policymaker1/><pis_policymaker2/><pis_policymaker3/><interviewee_name/><interviewee_organisation/><interviewee_position/><consent_introduction/><consent_individual1/><consent_individual2/><consent_individual3/><consent_signature/></pis_individual><interviewee_individual><interview_preamble/><interview_audio/><interview_no_audio/></interviewee_individual><interview_group><group_number/><pis_group_count/><pis_group><group_introduction/><group_introduction_1/><group_introduction_2/><group_introduction_3/><group_introduction_4/><group_introduction_5/><group_introduction_6/><group_introduction_7/><group_introduction_8/><group_introduction_9/><group_introduction_10/><group_introduction_11/><group_introduction_12/><pis_group1/><pis_group2/><pis_group3/><interviewee_group_name/><consent_group_introduction/><consent_group1/><consent_group2/><consent_group3/><consent_group_signature/><end_no_consent_group/><end_unsure_consent_group/></pis_group></interview_group><interviewee_group1><interview_group_preamble/><interview_group_audio/><interview_group_no_audio/></interviewee_group1><end_no_consent/><end_unsure_consent/><interview_end/><meta><instanceID/><instanceName/></meta></stakeholderinterviews></instance><bind nodeset="/stakeholderinterviews/interviewer_name" required="true()" type="select1"/><bind nodeset="/stakeholderinterviews/interviewee_type" required="true()" type="select1"/><bind calculate="if( /stakeholderinterviews/interviewee_type  = '1', 'policymaker', if( /stakeholderinterviews/interviewee_type  = '2', 'service provider', if( /stakeholderinterviews/interviewee_type  = '3', 'community leader', if( /stakeholderinterviews/interviewee_type  = '4', 'pregnant women', if( /stakeholderinterviews/interviewee_type  = '5', 'mothers', 'fathers')))))" nodeset="/stakeholderinterviews/interviewee_type_name" type="string"/><bind nodeset="/stakeholderinterviews/pis_individual" relevant=" /stakeholderinterviews/interviewee_type  = '1' or  /stakeholderinterviews/interviewee_type  = '2' or  /stakeholderinterviews/interviewee_type  = '3'"/><bind nodeset="/stakeholderinterviews/pis_individual/individual_introduction" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/pis_individual/pis_policymaker1" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/pis_individual/pis_policymaker2" required="true()" type="string"/><bind nodeset="/stakeholderinterviews/pis_individual/pis_policymaker3" required="true()" type="string"/><bind nodeset="/stakeholderinterviews/pis_individual/interviewee_name" required="true()" type="string"/><bind nodeset="/stakeholderinterviews/pis_individual/interviewee_organisation" required="true()" type="string"/><bind nodeset="/stakeholderinterviews/pis_individual/interviewee_position" required="true()" type="string"/><bind nodeset="/stakeholderinterviews/pis_individual/consent_introduction" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/pis_individual/consent_individual1" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/pis_individual/consent_individual2" required="true()" type="select1"/><bind nodeset="/stakeholderinterviews/pis_individual/consent_individual3" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '1' or  /stakeholderinterviews/pis_individual/consent_individual2  = '2'" required="true()" type="select1"/><bind nodeset="/stakeholderinterviews/pis_individual/consent_signature" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '1' or  /stakeholderinterviews/pis_individual/consent_individual2  = '2'" required="true()" type="binary"/><bind nodeset="/stakeholderinterviews/interviewee_individual" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '1' or  /stakeholderinterviews/pis_individual/consent_individual2  = '2'"/><bind nodeset="/stakeholderinterviews/interviewee_individual/interview_preamble" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interviewee_individual/interview_audio" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '1'" required="true()" type="binary"/><bind nodeset="/stakeholderinterviews/interviewee_individual/interview_no_audio" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '2'" required="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group" relevant=" /stakeholderinterviews/interviewee_type  = '4' or  /stakeholderinterviews/interviewee_type  = '5' or  /stakeholderinterviews/interviewee_type  = '6'"/><bind nodeset="/stakeholderinterviews/interview_group/group_number" required="true()" type="int"/><bind calculate=" /stakeholderinterviews/interview_group/group_number " nodeset="/stakeholderinterviews/interview_group/pis_group_count" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_1" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_2" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_3" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_4" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_5" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_6" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_7" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_8" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_9" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_10" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_11" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_12" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/pis_group1" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/pis_group2" required="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/pis_group3" required="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name" required="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/consent_group1" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/consent_group2" required="true()" type="select1"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/consent_group3" relevant=" /stakeholderinterviews/interview_group/pis_group/consent_group2  = '1' or  /stakeholderinterviews/interview_group/pis_group/consent_group2  = '2'" required="true()" type="select1"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/consent_group_signature" relevant=" /stakeholderinterviews/interview_group/pis_group/consent_group2  = '1' or  /stakeholderinterviews/interview_group/pis_group/consent_group2  = '2'" required="true()" type="binary"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group" readonly="true()" relevant=" /stakeholderinterviews/interview_group/pis_group/consent_group2  = '3'" type="string"/><bind nodeset="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group" readonly="true()" relevant=" /stakeholderinterviews/interview_group/pis_group/consent_group2  = '4'" type="string"/><bind nodeset="/stakeholderinterviews/interviewee_group1" relevant=" /stakeholderinterviews/interviewee_type  = '4' or  /stakeholderinterviews/interviewee_type  = '5' or  /stakeholderinterviews/interviewee_type  = '6'"/><bind nodeset="/stakeholderinterviews/interviewee_group1/interview_group_preamble" readonly="true()" type="string"/><bind nodeset="/stakeholderinterviews/interviewee_group1/interview_group_audio" relevant="sum( /stakeholderinterviews/interview_group/pis_group/consent_group2 ) =  /stakeholderinterviews/interview_group/group_number " required="true()" type="binary"/><bind nodeset="/stakeholderinterviews/interviewee_group1/interview_group_no_audio" relevant="sum( /stakeholderinterviews/interview_group/pis_group/consent_group2 ) &gt;  /stakeholderinterviews/interview_group/group_number " required="true()" type="string"/><bind nodeset="/stakeholderinterviews/end_no_consent" readonly="true()" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '3'" type="string"/><bind nodeset="/stakeholderinterviews/end_unsure_consent" readonly="true()" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '4'" type="string"/><bind nodeset="/stakeholderinterviews/interview_end" readonly="true()" type="string"/><bind calculate="concat('uuid:', uuid())" nodeset="/stakeholderinterviews/meta/instanceID" readonly="true()" type="string"/><bind calculate="omneohealth_png" nodeset="/stakeholderinterviews/meta/instanceName" type="string"/></model></h:head><h:body><select1 ref="/stakeholderinterviews/interviewer_name"><label ref="jr:itext('/stakeholderinterviews/interviewer_name:label')"/><hint ref="jr:itext('/stakeholderinterviews/interviewer_name:hint')"/><item><label ref="jr:itext('/stakeholderinterviews/interviewer_name/Laura Naidi:label')"/><value>Laura Naidi</value></item><item><label ref="jr:itext('/stakeholderinterviews/interviewer_name/Vivienne Kuma:label')"/><value>Vivienne Kuma</value></item><item><label ref="jr:itext('/stakeholderinterviews/interviewer_name/Ezekiel Kopono:label')"/><value>Ezekiel Kopono</value></item><item><label ref="jr:itext('/stakeholderinterviews/interviewer_name/Agatha Afasi:label')"/><value>Agatha Afasi</value></item></select1><select1 ref="/stakeholderinterviews/interviewee_type"><label ref="jr:itext('/stakeholderinterviews/interviewee_type:label')"/><hint ref="jr:itext('/stakeholderinterviews/interviewee_type:hint')"/><item><label ref="jr:itext('/stakeholderinterviews/interviewee_type/1:label')"/><value>1</value></item><item><label ref="jr:itext('/stakeholderinterviews/interviewee_type/2:label')"/><value>2</value></item><item><label ref="jr:itext('/stakeholderinterviews/interviewee_type/3:label')"/><value>3</value></item><item><label ref="jr:itext('/stakeholderinterviews/interviewee_type/4:label')"/><value>4</value></item><item><label ref="jr:itext('/stakeholderinterviews/interviewee_type/5:label')"/><value>5</value></item><item><label ref="jr:itext('/stakeholderinterviews/interviewee_type/6:label')"/><value>6</value></item></select1><group ref="/stakeholderinterviews/pis_individual"><label ref="jr:itext('/stakeholderinterviews/pis_individual:label')"/><input ref="/stakeholderinterviews/pis_individual/individual_introduction"><label ref="jr:itext('/stakeholderinterviews/pis_individual/individual_introduction:label')"/></input><input ref="/stakeholderinterviews/pis_individual/pis_policymaker1"><label ref="jr:itext('/stakeholderinterviews/pis_individual/pis_policymaker1:label')"/></input><trigger ref="/stakeholderinterviews/pis_individual/pis_policymaker2"><label ref="jr:itext('/stakeholderinterviews/pis_individual/pis_policymaker2:label')"/><hint ref="jr:itext('/stakeholderinterviews/pis_individual/pis_policymaker2:hint')"/></trigger><trigger ref="/stakeholderinterviews/pis_individual/pis_policymaker3"><label ref="jr:itext('/stakeholderinterviews/pis_individual/pis_policymaker3:label')"/><hint ref="jr:itext('/stakeholderinterviews/pis_individual/pis_policymaker3:hint')"/></trigger><input ref="/stakeholderinterviews/pis_individual/interviewee_name"><label ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_name:label')"/><hint ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_name:hint')"/></input><input ref="/stakeholderinterviews/pis_individual/interviewee_organisation"><label ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_organisation:label')"/><hint ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_organisation:hint')"/></input><input ref="/stakeholderinterviews/pis_individual/interviewee_position"><label ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_position:label')"/><hint ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_position:hint')"/></input><input ref="/stakeholderinterviews/pis_individual/consent_introduction"><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_introduction:label')"/></input><input ref="/stakeholderinterviews/pis_individual/consent_individual1"><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual1:label')"/></input><select1 ref="/stakeholderinterviews/pis_individual/consent_individual2"><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2:label')"/><hint ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2:hint')"/><item><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2/1:label')"/><value>1</value></item><item><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2/2:label')"/><value>2</value></item><item><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2/3:label')"/><value>3</value></item><item><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2/4:label')"/><value>4</value></item></select1><select1 ref="/stakeholderinterviews/pis_individual/consent_individual3"><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3:label')"/><hint ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3:hint')"/><item><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3/1:label')"/><value>1</value></item><item><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3/2:label')"/><value>2</value></item><item><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3/3:label')"/><value>3</value></item><item><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3/4:label')"/><value>4</value></item></select1><upload appearance="signature" mediatype="image/*" ref="/stakeholderinterviews/pis_individual/consent_signature"><label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_signature:label')"/><hint ref="jr:itext('/stakeholderinterviews/pis_individual/consent_signature:hint')"/></upload></group><group ref="/stakeholderinterviews/interviewee_individual"><label ref="jr:itext('/stakeholderinterviews/interviewee_individual:label')"/><input ref="/stakeholderinterviews/interviewee_individual/interview_preamble"><label ref="jr:itext('/stakeholderinterviews/interviewee_individual/interview_preamble:label')"/></input><upload mediatype="audio/*" ref="/stakeholderinterviews/interviewee_individual/interview_audio"><label ref="jr:itext('/stakeholderinterviews/interviewee_individual/interview_audio:label')"/><hint ref="jr:itext('/stakeholderinterviews/interviewee_individual/interview_audio:hint')"/></upload><input ref="/stakeholderinterviews/interviewee_individual/interview_no_audio"><label ref="jr:itext('/stakeholderinterviews/interviewee_individual/interview_no_audio:label')"/><hint ref="jr:itext('/stakeholderinterviews/interviewee_individual/interview_no_audio:hint')"/></input></group><group ref="/stakeholderinterviews/interview_group"><label ref="jr:itext('/stakeholderinterviews/interview_group:label')"/><input ref="/stakeholderinterviews/interview_group/group_number"><label ref="jr:itext('/stakeholderinterviews/interview_group/group_number:label')"/><hint ref="jr:itext('/stakeholderinterviews/interview_group/group_number:hint')"/></input><group jr:count=" /stakeholderinterviews/interview_group/pis_group_count " ref="/stakeholderinterviews/interview_group/pis_group"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group:label')"/><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_1"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_1:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_2"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_2:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_3"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_3:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_4"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_4:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_5"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_5:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_6"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_6:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_7"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_7:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_8"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_8:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_9"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_9:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_10"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_10:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_11"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_11:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_12"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_12:label')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/pis_group1"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/pis_group1:label')"/></input><trigger ref="/stakeholderinterviews/interview_group/pis_group/pis_group2"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/pis_group2:label')"/><hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/pis_group2:hint')"/></trigger><trigger ref="/stakeholderinterviews/interview_group/pis_group/pis_group3"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/pis_group3:label')"/><hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/pis_group3:hint')"/></trigger><input ref="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:label')"/><hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:hint')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:label')"/><hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:hint')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/consent_group1"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group1:label')"/></input><select1 ref="/stakeholderinterviews/interview_group/pis_group/consent_group2"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2:label')"/><hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2:hint')"/><item><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2/1:label')"/><value>1</value></item><item><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2/2:label')"/><value>2</value></item><item><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2/3:label')"/><value>3</value></item><item><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2/4:label')"/><value>4</value></item></select1><select1 ref="/stakeholderinterviews/interview_group/pis_group/consent_group3"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3:label')"/><hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3:hint')"/><item><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3/1:label')"/><value>1</value></item><item><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3/2:label')"/><value>2</value></item><item><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3/3:label')"/><value>3</value></item><item><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3/4:label')"/><value>4</value></item></select1><upload appearance="signature" mediatype="image/*" ref="/stakeholderinterviews/interview_group/pis_group/consent_group_signature"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group_signature:label')"/><hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group_signature:hint')"/></upload><input ref="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:label')"/><hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:hint')"/></input><input ref="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group"><label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:label')"/><hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:hint')"/></input></group></group><group ref="/stakeholderinterviews/interviewee_group1"><label ref="jr:itext('/stakeholderinterviews/interviewee_group1:label')"/><input ref="/stakeholderinterviews/interviewee_group1/interview_group_preamble"><label ref="jr:itext('/stakeholderinterviews/interviewee_group1/interview_group_preamble:label')"/></input><upload mediatype="audio/*" ref="/stakeholderinterviews/interviewee_group1/interview_group_audio"><label ref="jr:itext('/stakeholderinterviews/interviewee_group1/interview_group_audio:label')"/><hint ref="jr:itext('/stakeholderinterviews/interviewee_group1/interview_group_audio:hint')"/></upload><input ref="/stakeholderinterviews/interviewee_group1/interview_group_no_audio"><label ref="jr:itext('/stakeholderinterviews/interviewee_group1/interview_group_no_audio:label')"/><hint ref="jr:itext('/stakeholderinterviews/interviewee_group1/interview_group_no_audio:hint')"/></input></group><input ref="/stakeholderinterviews/end_no_consent"><label ref="jr:itext('/stakeholderinterviews/end_no_consent:label')"/></input><input ref="/stakeholderinterviews/end_unsure_consent"><label ref="jr:itext('/stakeholderinterviews/end_unsure_consent:label')"/></input><input ref="/stakeholderinterviews/interview_end"><label ref="jr:itext('/stakeholderinterviews/interview_end:label')"/></input></h:body></h:html>
+Start taking notes of the focus group discussion.  </value>
+          </text>
+          <text id="/stakeholderinterviews/interviewer_name/Ezekiel Kopono:label">
+            <value>Ezekiel Kopono</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <stakeholderinterviews id="stakeholderinterviews" version="201808200642">
+          <formhub>
+            <uuid/>
+          </formhub>
+          <interviewer_name/>
+          <interviewee_type/>
+          <interviewee_type_name/>
+          <pis_individual>
+            <individual_introduction/>
+            <pis_policymaker1/>
+            <pis_policymaker2/>
+            <pis_policymaker3/>
+            <interviewee_name/>
+            <interviewee_organisation/>
+            <interviewee_position/>
+            <consent_introduction/>
+            <consent_individual1/>
+            <consent_individual2/>
+            <consent_individual3/>
+            <consent_signature/>
+          </pis_individual>
+          <interviewee_individual>
+            <interview_preamble/>
+            <interview_audio/>
+            <interview_no_audio/>
+          </interviewee_individual>
+          <interview_group>
+            <group_number/>
+            <pis_group_count/>
+            <pis_group jr:template="">
+              <group_introduction/>
+              <group_introduction_1/>
+              <group_introduction_2/>
+              <group_introduction_3/>
+              <group_introduction_4/>
+              <group_introduction_5/>
+              <group_introduction_6/>
+              <group_introduction_7/>
+              <group_introduction_8/>
+              <group_introduction_9/>
+              <group_introduction_10/>
+              <group_introduction_11/>
+              <group_introduction_12/>
+              <pis_group1/>
+              <pis_group2/>
+              <pis_group3/>
+              <interviewee_group_name/>
+              <consent_group_introduction/>
+              <consent_group1/>
+              <consent_group2/>
+              <consent_group3/>
+              <consent_group_signature/>
+              <end_no_consent_group/>
+              <end_unsure_consent_group/>
+            </pis_group>
+          </interview_group>
+          <interviewee_group1>
+            <interview_group_preamble/>
+            <interview_group_audio/>
+            <interview_group_no_audio/>
+          </interviewee_group1>
+          <end_no_consent/>
+          <end_unsure_consent/>
+          <interview_end/>
+          <meta>
+            <instanceID/>
+            <instanceName/>
+          </meta>
+        </stakeholderinterviews>
+      </instance>
+      <bind nodeset="/stakeholderinterviews/interviewer_name" required="true()" type="select1"/>
+      <bind nodeset="/stakeholderinterviews/interviewee_type" required="true()" type="select1"/>
+      <bind calculate="if( /stakeholderinterviews/interviewee_type  = '1', 'policymaker', if( /stakeholderinterviews/interviewee_type  = '2', 'service provider', if( /stakeholderinterviews/interviewee_type  = '3', 'community leader', if( /stakeholderinterviews/interviewee_type  = '4', 'pregnant women', if( /stakeholderinterviews/interviewee_type  = '5', 'mothers', 'fathers')))))" nodeset="/stakeholderinterviews/interviewee_type_name" type="string"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual" relevant=" /stakeholderinterviews/interviewee_type  = '1' or  /stakeholderinterviews/interviewee_type  = '2' or  /stakeholderinterviews/interviewee_type  = '3'"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/individual_introduction" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/pis_policymaker1" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/pis_policymaker2" required="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/pis_policymaker3" required="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/interviewee_name" required="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/interviewee_organisation" required="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/interviewee_position" required="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/consent_introduction" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/consent_individual1" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/consent_individual2" required="true()" type="select1"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/consent_individual3" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '1' or  /stakeholderinterviews/pis_individual/consent_individual2  = '2'" required="true()" type="select1"/>
+      <bind nodeset="/stakeholderinterviews/pis_individual/consent_signature" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '1' or  /stakeholderinterviews/pis_individual/consent_individual2  = '2'" required="true()" type="binary"/>
+      <bind nodeset="/stakeholderinterviews/interviewee_individual" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '1' or  /stakeholderinterviews/pis_individual/consent_individual2  = '2'"/>
+      <bind nodeset="/stakeholderinterviews/interviewee_individual/interview_preamble" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interviewee_individual/interview_audio" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '1'" required="true()" type="binary"/>
+      <bind nodeset="/stakeholderinterviews/interviewee_individual/interview_no_audio" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '2'" required="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group" relevant=" /stakeholderinterviews/interviewee_type  = '4' or  /stakeholderinterviews/interviewee_type  = '5' or  /stakeholderinterviews/interviewee_type  = '6'"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/group_number" required="true()" type="int"/>
+      <bind calculate=" /stakeholderinterviews/interview_group/group_number " nodeset="/stakeholderinterviews/interview_group/pis_group_count" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_1" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_2" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_3" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_4" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_5" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_6" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_7" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_8" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_9" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_10" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_11" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/group_introduction_12" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/pis_group1" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/pis_group2" required="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/pis_group3" required="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name" required="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/consent_group1" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/consent_group2" required="true()" type="select1"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/consent_group3" relevant=" /stakeholderinterviews/interview_group/pis_group/consent_group2  = '1' or  /stakeholderinterviews/interview_group/pis_group/consent_group2  = '2'" required="true()" type="select1"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/consent_group_signature" relevant=" /stakeholderinterviews/interview_group/pis_group/consent_group2  = '1' or  /stakeholderinterviews/interview_group/pis_group/consent_group2  = '2'" required="true()" type="binary"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group" readonly="true()" relevant=" /stakeholderinterviews/interview_group/pis_group/consent_group2  = '3'" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group" readonly="true()" relevant=" /stakeholderinterviews/interview_group/pis_group/consent_group2  = '4'" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interviewee_group1" relevant=" /stakeholderinterviews/interviewee_type  = '4' or  /stakeholderinterviews/interviewee_type  = '5' or  /stakeholderinterviews/interviewee_type  = '6'"/>
+      <bind nodeset="/stakeholderinterviews/interviewee_group1/interview_group_preamble" readonly="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interviewee_group1/interview_group_audio" relevant="sum( /stakeholderinterviews/interview_group/pis_group/consent_group2 ) =  /stakeholderinterviews/interview_group/group_number " required="true()" type="binary"/>
+      <bind nodeset="/stakeholderinterviews/interviewee_group1/interview_group_no_audio" relevant="sum( /stakeholderinterviews/interview_group/pis_group/consent_group2 ) &gt;  /stakeholderinterviews/interview_group/group_number " required="true()" type="string"/>
+      <bind nodeset="/stakeholderinterviews/end_no_consent" readonly="true()" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '3'" type="string"/>
+      <bind nodeset="/stakeholderinterviews/end_unsure_consent" readonly="true()" relevant=" /stakeholderinterviews/pis_individual/consent_individual2  = '4'" type="string"/>
+      <bind nodeset="/stakeholderinterviews/interview_end" readonly="true()" type="string"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/stakeholderinterviews/meta/instanceID" readonly="true()" type="string"/>
+      <bind calculate="omneohealth_png" nodeset="/stakeholderinterviews/meta/instanceName" type="string"/>
+      <bind calculate="'ff3f0889760c48c3a3254aa1036f0833'" nodeset="/stakeholderinterviews/formhub/uuid" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <select1 ref="/stakeholderinterviews/interviewer_name">
+      <label ref="jr:itext('/stakeholderinterviews/interviewer_name:label')"/>
+      <hint ref="jr:itext('/stakeholderinterviews/interviewer_name:hint')"/>
+      <item>
+        <label ref="jr:itext('/stakeholderinterviews/interviewer_name/Laura Naidi:label')"/>
+        <value>Laura Naidi</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/stakeholderinterviews/interviewer_name/Vivienne Kuma:label')"/>
+        <value>Vivienne Kuma</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/stakeholderinterviews/interviewer_name/Ezekiel Kopono:label')"/>
+        <value>Ezekiel Kopono</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/stakeholderinterviews/interviewer_name/Agatha Afasi:label')"/>
+        <value>Agatha Afasi</value>
+      </item>
+    </select1>
+    <select1 ref="/stakeholderinterviews/interviewee_type">
+      <label ref="jr:itext('/stakeholderinterviews/interviewee_type:label')"/>
+      <hint ref="jr:itext('/stakeholderinterviews/interviewee_type:hint')"/>
+      <item>
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_type/1:label')"/>
+        <value>1</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_type/2:label')"/>
+        <value>2</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_type/3:label')"/>
+        <value>3</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_type/4:label')"/>
+        <value>4</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_type/5:label')"/>
+        <value>5</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_type/6:label')"/>
+        <value>6</value>
+      </item>
+    </select1>
+    <group ref="/stakeholderinterviews/pis_individual">
+      <label ref="jr:itext('/stakeholderinterviews/pis_individual:label')"/>
+      <input ref="/stakeholderinterviews/pis_individual/individual_introduction">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/individual_introduction:label')"/>
+      </input>
+      <input ref="/stakeholderinterviews/pis_individual/pis_policymaker1">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/pis_policymaker1:label')"/>
+      </input>
+      <trigger ref="/stakeholderinterviews/pis_individual/pis_policymaker2">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/pis_policymaker2:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/pis_individual/pis_policymaker2:hint')"/>
+      </trigger>
+      <trigger ref="/stakeholderinterviews/pis_individual/pis_policymaker3">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/pis_policymaker3:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/pis_individual/pis_policymaker3:hint')"/>
+      </trigger>
+      <input ref="/stakeholderinterviews/pis_individual/interviewee_name">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_name:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_name:hint')"/>
+      </input>
+      <input ref="/stakeholderinterviews/pis_individual/interviewee_organisation">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_organisation:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_organisation:hint')"/>
+      </input>
+      <input ref="/stakeholderinterviews/pis_individual/interviewee_position">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_position:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/pis_individual/interviewee_position:hint')"/>
+      </input>
+      <input ref="/stakeholderinterviews/pis_individual/consent_introduction">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_introduction:label')"/>
+      </input>
+      <input ref="/stakeholderinterviews/pis_individual/consent_individual1">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual1:label')"/>
+      </input>
+      <select1 ref="/stakeholderinterviews/pis_individual/consent_individual2">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2:hint')"/>
+        <item>
+          <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2/1:label')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2/2:label')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2/3:label')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual2/4:label')"/>
+          <value>4</value>
+        </item>
+      </select1>
+      <select1 ref="/stakeholderinterviews/pis_individual/consent_individual3">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3:hint')"/>
+        <item>
+          <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3/1:label')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3/2:label')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3/3:label')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_individual3/4:label')"/>
+          <value>4</value>
+        </item>
+      </select1>
+      <upload appearance="signature" mediatype="image/*" ref="/stakeholderinterviews/pis_individual/consent_signature">
+        <label ref="jr:itext('/stakeholderinterviews/pis_individual/consent_signature:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/pis_individual/consent_signature:hint')"/>
+      </upload>
+    </group>
+    <group ref="/stakeholderinterviews/interviewee_individual">
+      <label ref="jr:itext('/stakeholderinterviews/interviewee_individual:label')"/>
+      <input ref="/stakeholderinterviews/interviewee_individual/interview_preamble">
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_individual/interview_preamble:label')"/>
+      </input>
+      <upload mediatype="audio/*" ref="/stakeholderinterviews/interviewee_individual/interview_audio">
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_individual/interview_audio:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/interviewee_individual/interview_audio:hint')"/>
+      </upload>
+      <input ref="/stakeholderinterviews/interviewee_individual/interview_no_audio">
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_individual/interview_no_audio:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/interviewee_individual/interview_no_audio:hint')"/>
+      </input>
+    </group>
+    <group ref="/stakeholderinterviews/interview_group">
+      <label ref="jr:itext('/stakeholderinterviews/interview_group:label')"/>
+      <input ref="/stakeholderinterviews/interview_group/group_number">
+        <label ref="jr:itext('/stakeholderinterviews/interview_group/group_number:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/interview_group/group_number:hint')"/>
+      </input>
+      <group ref="/stakeholderinterviews/interview_group/pis_group">
+        <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group:label')"/>
+        <repeat jr:count=" /stakeholderinterviews/interview_group/pis_group_count " nodeset="/stakeholderinterviews/interview_group/pis_group">
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_1">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_1:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_2">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_2:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_3">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_3:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_4">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_4:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_5">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_5:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_6">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_6:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_7">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_7:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_8">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_8:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_9">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_9:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_10">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_10:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_11">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_11:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/group_introduction_12">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/group_introduction_12:label')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/pis_group1">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/pis_group1:label')"/>
+          </input>
+          <trigger ref="/stakeholderinterviews/interview_group/pis_group/pis_group2">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/pis_group2:label')"/>
+            <hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/pis_group2:hint')"/>
+          </trigger>
+          <trigger ref="/stakeholderinterviews/interview_group/pis_group/pis_group3">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/pis_group3:label')"/>
+            <hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/pis_group3:hint')"/>
+          </trigger>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/interviewee_group_name">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:label')"/>
+            <hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/interviewee_group_name:hint')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/consent_group_introduction">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:label')"/>
+            <hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group_introduction:hint')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/consent_group1">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group1:label')"/>
+          </input>
+          <select1 ref="/stakeholderinterviews/interview_group/pis_group/consent_group2">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2:label')"/>
+            <hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2:hint')"/>
+            <item>
+              <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2/1:label')"/>
+              <value>1</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2/2:label')"/>
+              <value>2</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2/3:label')"/>
+              <value>3</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group2/4:label')"/>
+              <value>4</value>
+            </item>
+          </select1>
+          <select1 ref="/stakeholderinterviews/interview_group/pis_group/consent_group3">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3:label')"/>
+            <hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3:hint')"/>
+            <item>
+              <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3/1:label')"/>
+              <value>1</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3/2:label')"/>
+              <value>2</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3/3:label')"/>
+              <value>3</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group3/4:label')"/>
+              <value>4</value>
+            </item>
+          </select1>
+          <upload appearance="signature" mediatype="image/*" ref="/stakeholderinterviews/interview_group/pis_group/consent_group_signature">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group_signature:label')"/>
+            <hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/consent_group_signature:hint')"/>
+          </upload>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/end_no_consent_group">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:label')"/>
+            <hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/end_no_consent_group:hint')"/>
+          </input>
+          <input ref="/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group">
+            <label ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:label')"/>
+            <hint ref="jr:itext('/stakeholderinterviews/interview_group/pis_group/end_unsure_consent_group:hint')"/>
+          </input>
+        </repeat>
+      </group>
+    </group>
+    <group ref="/stakeholderinterviews/interviewee_group1">
+      <label ref="jr:itext('/stakeholderinterviews/interviewee_group1:label')"/>
+      <input ref="/stakeholderinterviews/interviewee_group1/interview_group_preamble">
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_group1/interview_group_preamble:label')"/>
+      </input>
+      <upload mediatype="audio/*" ref="/stakeholderinterviews/interviewee_group1/interview_group_audio">
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_group1/interview_group_audio:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/interviewee_group1/interview_group_audio:hint')"/>
+      </upload>
+      <input ref="/stakeholderinterviews/interviewee_group1/interview_group_no_audio">
+        <label ref="jr:itext('/stakeholderinterviews/interviewee_group1/interview_group_no_audio:label')"/>
+        <hint ref="jr:itext('/stakeholderinterviews/interviewee_group1/interview_group_no_audio:hint')"/>
+      </input>
+    </group>
+    <input ref="/stakeholderinterviews/end_no_consent">
+      <label ref="jr:itext('/stakeholderinterviews/end_no_consent:label')"/>
+    </input>
+    <input ref="/stakeholderinterviews/end_unsure_consent">
+      <label ref="jr:itext('/stakeholderinterviews/end_unsure_consent:label')"/>
+    </input>
+    <input ref="/stakeholderinterviews/interview_end">
+      <label ref="jr:itext('/stakeholderinterviews/interview_end:label')"/>
+    </input>
+  </h:body>
+</h:html>
